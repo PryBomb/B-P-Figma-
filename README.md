@@ -1,11 +1,6 @@
 # B&P design 
 Home page website design 
 
-
-That glassmorphism effect looks fantastic—the purple and orange gradients paired with that frosted card give it a very high-end, futuristic feel. Since you're pushing this to GitHub, your README should reflect that same "Space" and innovation theme.
-
-Here is a structured README description you can use:
-
 Space Landing Page
 A sleek, modern, and immersive landing page design featuring a Glassmorphic UI and vibrant gradient aesthetics. This project showcases a high-performance digital environment designed for the next generation of web experiences.
 
